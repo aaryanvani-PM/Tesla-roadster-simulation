@@ -1,0 +1,8 @@
+{
+  "name": "Tesla Roadster: SpaceX Thruster Arena",
+  "description": "Arcade 3D vehicular stunt simulator and free-roam proving ground featuring the new Tesla Roadster with SpaceX cold-gas thrusters, vertical maneuvers, and aerial stunt rings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
